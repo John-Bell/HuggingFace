@@ -1,10 +1,10 @@
-# Understanding Transformer Models with Hugging Face
+# Understanding Transformer Models with HuggingFace
 
-This repository is a dedicated space for understanding and experimenting with transformer models using the Hugging Face library.
+This repository is a dedicated space for understanding and experimenting with transformer models using the HuggingFace library.
 
 ## Overview
 
-This project is intended as a personal workspace.  The content includes tutorials, experiments, and resources that cover a wide range of topics, from basic concepts to advanced techniques.
+This project is intended as a personal workspace.  The content includes tutorials and experiments.
 
 ## Usage
 
@@ -16,7 +16,7 @@ If you have suggestions for improving this repository, please open an issue or s
 
 ## Acknowledgments
 
-This project includes content and resources from the [Hugging Face Course](https://github.com/huggingface/notebooks). I thank the Hugging Face team for their incredible work in democratizing machine learning model sharing and research.
+This project includes content and resources from the [HuggingFace Course](https://github.com/huggingface/notebooks). I thank the HuggingFace team for their incredible work in democratizing machine learning model sharing and research.
 
 ## License
 
